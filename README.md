@@ -1,6 +1,6 @@
-## Getting Started
+# IT3202 Testing with Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A Java project for testing a simple application with JUnit tests.
 
 ## Folder Structure
 
